@@ -78,6 +78,16 @@ AI-Consumer-Behavior-Prediction/
 └── outputs/
 
 ---
+## images
+<img width="571" height="502" alt="sentiment  analysis output 1" src="https://github.com/user-attachments/assets/fe0c558e-a8f4-45aa-bfa6-987f7d4dd11c" />
+<img width="507" height="455" alt="confuse matrix output" src="https://github.com/user-attachments/assets/82abaff1-86cd-4b1e-8302-775a914785c3" />
+
+<img width="790" height="405" alt=" word cloud output" src="https://github.com/user-attachments/assets/664448b8-effd-41f2-a65b-fa2d3f903713" />
+
+<img width="1239" height="664" alt="Screenshot 2026-05-08 at 1 39 30 PM" src="https://github.com/user-attachments/assets/826d23be-82ad-4629-b4c7-d28134aa83b7" />
+
+
+
 
 ## Run Locally
 
