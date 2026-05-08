@@ -1,4 +1,4 @@
-# AI Consumer Behavior Prediction
+# Consumer Purchase Prediction using Machine Learning and Amazon Reviews
 
 An AI-powered machine learning project that predicts consumer purchase and recommendation behavior using sentiment analysis on Amazon product reviews.
 
