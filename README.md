@@ -84,7 +84,8 @@ AI-Consumer-Behavior-Prediction/
 
 <img width="790" height="405" alt=" word cloud output" src="https://github.com/user-attachments/assets/664448b8-effd-41f2-a65b-fa2d3f903713" />
 
-<img width="1239" height="664" alt="Screenshot 2026-05-08 at 1 39 30 PM" src="https://github.com/user-attachments/assets/826d23be-82ad-4629-b4c7-d28134aa83b7" />
+<img width="1347" height="671" alt="app_screenshot 1" src="https://github.com/user-attachments/assets/17b92e75-27e6-4f65-a7b0-5684bf227aa5" />
+
 
 
 
